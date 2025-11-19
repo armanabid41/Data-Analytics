@@ -1,1 +1,28 @@
-# Foundation of Excel Project
+# 📑 Project: Foundation of Excel
+
+## 📌 Overview
+This project demonstrates fundamental Excel skills including data cleaning, text manipulation, and logical functions based on a weekly assessment scenario.
+
+## 🛠 Task Requirements & Solutions
+
+### Part A: Data Cleaning & Logic
+- **Calculated Total Sales:** Used `Unit Price * Quantity`.
+- **Discount Logic:** Applied `IF` function to flag orders with discounts.
+- **Text Manipulation:** Used `CONCATENATE` to join First and Last names.
+- **Priority Flagging:** Used `IF` + `AND` to identify "Priority" orders (Skin Care category AND Quantity > 15).
+
+### Part B: Summarization
+- **Category Analysis:** Used `SUMIF` to find Total Net Sales per Category.
+- **Regional Stats:** Used `COUNTIF` to count orders per region.
+
+## 📸 Project Screenshots
+
+### Main Data Sheet (Cleaned & Calculated)
+![Main Sheet](Link_to_your_screenshot_1)
+
+### Summary Report
+![Summary Stats](Link_to_your_screenshot_2)
+
+## 📂 File Access
+You can download the complete Excel file to verify the formulas:
+[📥 Download Excel File](./CustomerData_Weekly%20Assessment%20%234.xlsx)
