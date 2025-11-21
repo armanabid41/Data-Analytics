@@ -18,7 +18,7 @@ This project demonstrates fundamental Excel skills including data cleaning, text
 ## 📸 Project Screenshots
 
 ### Main Data Sheet (Cleaned & Calculated)
-![Main Sheet](Link_to_your_screenshot_1)
+<img width="1507" height="862" alt="Image" src="https://github.com/user-attachments/assets/4137c299-21e1-4f16-a055-f8bde5c089d4" />
 
 ### Summary Report
 ![Summary Stats](Link_to_your_screenshot_2)
