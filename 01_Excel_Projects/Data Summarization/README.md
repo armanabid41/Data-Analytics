@@ -19,8 +19,8 @@ To transform raw sales data into meaningful insights to assist management in dec
 4.  **Customer Segment:** Retail customers generate significantly more revenue than Wholesale or Online channels.
 
 ## 📂 Project Files
-* [Download the Analysis File](./Sales_Data_Analysis.xlsx) *(Ensure your file name matches this)*
-* [View Strategic Report](./Sales_Report.pdf)
+* [Download the Analysis File](https://docs.google.com/spreadsheets/d/1nMUX7RSPjedmUunKVfeoA2drIQO1yFrZLE_tJvYTMuQ/edit?usp=sharing)
+* [View Strategic Report]()
 
 ---
 **Author:** Arman Hossain Abid
