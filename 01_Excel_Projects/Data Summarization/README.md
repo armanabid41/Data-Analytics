@@ -20,7 +20,7 @@ To transform raw sales data into meaningful insights to assist management in dec
 
 ## 📂 Project Files
 * [Download the Analysis File](https://docs.google.com/spreadsheets/d/1nMUX7RSPjedmUunKVfeoA2drIQO1yFrZLE_tJvYTMuQ/edit?usp=sharing)
-* [View Strategic Report]()
+* [View Strategic Report](./16827_Weekly_Assessment5_C5.pdf)
 
 ---
 **Author:** Arman Hossain Abid
