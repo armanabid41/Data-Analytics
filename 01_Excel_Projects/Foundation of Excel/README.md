@@ -21,7 +21,7 @@ This project demonstrates fundamental Excel skills including data cleaning, text
 <img width="1507" height="862" alt="Image" src="https://github.com/user-attachments/assets/4137c299-21e1-4f16-a055-f8bde5c089d4" />
 
 ### Summary Report
-![Summary Stats](Link_to_your_screenshot_2)
+<img width="1849" height="786" alt="Image" src="https://github.com/user-attachments/assets/bce79eeb-cedd-4cd1-9721-65e415625724" />
 
 ## 📂 File Access
 You can download the complete Excel file to verify the formulas:
